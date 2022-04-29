@@ -1,6 +1,6 @@
 fun main() {
     greet("GitHub Actions !!!")
-    greet("GitHub CI!!!")
+    greet("GitHub CI !!!")
 }
 
 private fun greet(message: String) {
