@@ -1,5 +1,5 @@
 fun main() {
-    greet("Hello World !!")
+    greet("Hello GitHub Actions !!")
 }
 
 private fun greet(message: String) {
